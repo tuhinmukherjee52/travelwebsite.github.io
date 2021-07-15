@@ -1,0 +1,626 @@
+/*HOME*/
+
+.body{
+    margin: 0;
+}
+.navbar-dark{
+background: #292659;
+border: none;
+height: 75px;
+}
+.navbar img{
+    border: none;
+}
+
+.nav-link{
+    color: white!important;
+    font-size: 0.9em;
+    font-family: Noto Sans;
+}
+.nav-link:hover {
+ background-color: #d47b24;
+}
+.navbar-nav li{
+    margin-left: 1em;
+}
+.fa-search{
+    
+}
+
+.bbf{
+    border: none;
+    background-color: #f28b00;
+    width: 20%;
+    margin-bottom: 7em;
+    text-align: justify;
+    margin-right: 32em;
+    padding-left: 10px;
+    height: 2em;
+    border-radius: 5px;
+}
+.bbf span{
+    font-family: Noto Sans ;
+    color: white;
+    
+}
+.bbf:hover{
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    transform: scale(1.1);
+    box-shadow: 10px 10px 5px rgb(59, 59, 59)
+}
+  
+
+/* end of navbar */
+
+.card{
+    background: transparent;
+    border: none;
+}
+.btn_ser{
+    background-color: #7669df;
+    border-radius: 10px;
+    margin-top: 1em;
+    border: none;
+    height: 20%;
+    border-radius: 2px;
+    width: 55%
+}
+.btn_ser:hover{
+    background-color: lightgreen;
+    transition: 0.5s;
+}
+.btn_ser samp{
+color: white;
+font-family: Noto Sans;
+}
+.btn_ser samp:hover{
+    color:white;
+    transform: 1.5s ;
+}
+
+.home_ser2 h6{
+    color: #292659 ;
+    font-family: Noto Sans ;
+}
+.home_ser2 p{
+    color: #292659 ;
+    font-family: Noto Sans ;
+    font-size: 10px;
+    margin-top: 8em;
+}
+.home_ser2 h5{
+    color: #292659 ;
+    font-family: Noto Sans ;
+    font-weight: bold;
+    font-size: 1em;
+}
+.home_ser2 span{
+    color: #292659 ;
+    font-family: Noto Sans ;
+    font-weight: bold;
+    font-size: 15px;
+}
+.don img{
+    margin-top: 1.2em;
+}
+.don img:hover{
+    background-color: #40c4b7 ;
+    -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 10px 10px 5px rgb(59, 59, 59); 
+}
+
+/* End of our services */
+
+.recent{
+    background-color: #7093cd;
+    width: 100%;
+}
+
+.recent2 h4{
+    font-family: Noto sans;
+    color: #ffff;
+    font-weight: bold;
+}
+.recent2 h6{
+    font-family: Noto sans;
+    color: #ffff;
+    
+}
+.recent2 p{
+    font-family: Noto Sans;
+    color: #ffff; 
+    font-size: 14px;
+}
+.btn_ser5{
+    background-color:#f28b00 ;
+    border: none;  
+    border-radius: 5px; 
+    width: 70%;
+    height: 15%;
+}
+.btn_ser5 samp{
+    color: white;
+}
+.btn_ser5:hover{
+    background-color: lightgreen;
+    transition: 0.5s;
+}
+
+.class1 img:hover{
+    -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 10px 10px 5px rgb(59, 59, 59);
+}
+.class2 img:hover{
+    -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 10px 10px 5px rgb(59, 59, 59);
+}
+.class3 img:hover{
+    -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 10px 10px 5px rgb(59, 59, 59);
+}
+
+/* End of our work */
+
+.trustes3 h5{
+    color: #130030;
+    font-family: Noto Sans;
+    font-weight: bold;
+}
+.trustes3 p{
+    color: #f28b00;
+    font-family: Noto Sans;
+    font-weight: bold;
+}
+.card{
+    background: transparent;
+    border: none;
+}
+.btn_past{
+    border: none;
+    box-shadow: none;
+    background-color:#e55b30 ;
+    padding-top: 2em;
+    width: 100%;    
+    border-radius: 20px;
+    border: none;
+    height: 15em;
+}
+.btn_past img{
+    margin-left: 2em;
+    height: 11em;
+}
+
+.btn_past p{
+    color:#ffff;
+    font-weight: normal;
+    font-family: Noto Sans;
+    font-size: 14px;
+    
+}
+.btn_past h6{
+    color:#ffff;
+    font-weight: normal;
+    font-family: Noto Sans;
+}
+.btn_past2{
+    border: none;
+    box-shadow: none;
+    background-color:#40c4b7 ;
+    padding-top: 2em;
+    width: 100%;
+    border-radius: 20px;
+    height: 15em;
+}
+.btn_past2 img{
+    margin-left: 2em;
+    height: 11em;
+}
+
+.btn_past2 p{
+    color:#ffff;
+    font-weight: normal;
+    font-family: Noto Sans;
+    font-size: 14px;
+}
+.btn_past2 h6{
+    color:#ffff;
+    font-weight: normal;
+    font-family: Noto Sans;
+    border: none;
+}
+.btn_past2:hover{
+    background-color: #e55b30;
+    /-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  transform: scale(1.1);
+ box-shadow: 10px 10px 5px rgb(59, 59, 59);
+}
+.btn_past:hover{
+    background-color: #40c4b7 ;
+    -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  transform: scale(1.1);
+  box-shadow: 10px 10px 5px rgb(59, 59, 59);
+}
+/* End of Trstees */
+
+/*End of HOME*/
+
+/*ABOUT*/
+
+.about{
+    width: 100%;
+    height: 100%;
+}
+
+.about h4{
+    font-family:  Noto Sans;
+    font-weight: bold;
+    color: #292659;
+}
+.about h6{
+   font-family:  Noto Sans;
+   font-weight: bold;
+   color: #f6b77d;
+}
+.about img:hover{
+    -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  transform: scale(1.1);
+  box-shadow: 10px 10px 5px rgb(59, 59, 59);  
+}
+.about_2{
+   
+   border: none;
+   box-shadow: none;
+   border: none;
+   width: 100%;
+}
+.card{
+   border: none;
+   width: 100%;
+   
+   
+      
+}
+.hr{
+   width: 2px;
+   height: 100%;
+   background-color: #130030;
+   border: none;
+   transform: rotate(90deg);
+   margin-left: 50px;
+   margin-bottom: px;
+  
+   
+}
+.about_2 h6{
+   color: #130030;
+   font-family: Noto Sans;
+   font-weight: bold;
+}
+.about_2 p{
+   
+   font-family: Noto Sans;
+   
+}
+.key{
+   background-image: url(img/mid7.png);
+   width: 100%;
+}
+.sponsors h4{
+    font-family:Noto Sans ;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 2em;
+}
+.btn_sup{
+    background-color: #ff6951;
+    border: none;
+    border-radius: 1em;
+    padding-bottom: 3em;
+    padding-top: 1em;
+    pointer-events: none;
+}
+.btn_good{
+   background-color: #7669df;
+   border: none;
+   border-radius: 1em;
+   padding-bottom: 3em;
+   padding-top: 1em;
+   pointer-events: none;
+}
+.sponsors p{
+    font-family: Noto Sans ;
+    color: white;
+}
+.efa{
+    background-image: url(img/mid8.png);
+    width: 100%;
+}
+.sports p{
+    color: #f39426;
+    font-family: Noto Sans;
+}
+.sports h5{
+   color: #292659;
+   font-family: Noto Sans;
+   font-weight: bold;
+}
+
+
+/*ABOUT*/
+
+/*GALLERY*/
+
+.adc:hover{
+    overflow: hidden;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    transform: scale(1.1);
+    box-shadow: 10px 10px 5px rgb(59, 59, 59);   
+}
+.gallery_1st p{
+    font-family: Noto Sans;
+    color: #292659;
+    font-weight: bold;
+}
+.gallery_next p{
+    font-family: Noto Sans;
+    color: #292659;
+    font-weight: bold;
+}
+.gallery-1 h1{
+    font-family: Noto Sans;
+    color: #292659;
+    font-weight: bold;
+}
+
+
+
+/*GALLERY*/
+
+/*Project*/
+
+.aat p{
+    font-family: Noto Sans;
+    color: #292650;
+}
+
+
+/*Project*/
+
+/* sponsors */
+
+.sponsor {
+    margin-top: 5em;
+}
+.sponsor h1{
+    color: #292659;
+    font-family: Noto Sans;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1em;
+}
+.btn_sp1{
+    border: none;
+    background-color:#7669df ;
+    border-radius: 15px;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 0.9em;
+}
+.btn_sp1 p{
+    color: white;
+    font-family: Noto Sans;
+    text-align: justify;
+}
+.btn_sp1:hover{
+    background-color: #ff6951;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    transform: scale(1.1);
+    box-shadow: 10px 10px 5px rgb(59, 59, 59);  
+}
+
+.btn_sp2{
+    border: none;
+    background-color:#ff6951 ;
+    border-radius: 15px;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 0.9em;
+    padding-bottom: 7.4em;
+}
+.btn_sp2 p{
+    color: white;
+    font-family: Noto Sans;
+    text-align: justify;
+}
+.btn_sp2:hover{
+    background-color: #7669df;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    transform: scale(1.1);
+    box-shadow: 10px 10px 5px rgb(59, 59, 59);  
+}
+.wish h1{
+    color:#292659;
+    font-family: Noto Sans;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4em;
+    padding-bottom: 1em;
+}
+.well{
+    background-color: #7495ce;  
+    border-radius: 10px;
+    padding-left: 5em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.well:hover{
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    transform: scale(1.1);
+    box-shadow: 10px 10px 5px rgb(59, 59, 59);  
+}
+.well-4 a{
+ color: white;
+}
+.well-3 a{
+    color: white;
+
+}
+
+
+
+/* sponsors */
+
+/*Footer*/
+.footer{
+    background-color:#130030 ;
+    width: 100%;
+    height: 100%;
+    margin-top: 5em;
+}
+.footer2 p{
+    color:#ffff;
+    font-family: Noto Sans;
+    font-size: 10px;
+    margin-top: 5px;
+    margin-left: 65%;
+}
+.footer2 h6{
+    color:#ffff;
+    font-family: Noto Sans;
+    font-size: 10px;
+    margin-top: 5px;
+    margin-right: 65%;
+}
+.hr2 {
+    border: 0;
+    width: 80%;
+    color: white;
+  }
+/*Footer*/
+
+/*covid*/
+
+.button_gd{
+    margin-top: 3em ;
+    background-color: #f28b00;
+    border: none;
+    border-radius: 15px;
+    width: 55%;
+    text-align: center;
+    pointer-events: none;
+
+}
+
+.button_gd h5{
+    font-family: Noto Sans;
+    color: white;
+    font-weight: bold;
+}
+.there2{
+    background-color: cornflowerblue;
+}
+.there h6{
+    font-family:Noto Sans ;
+    color: white;
+}
+.there h3{
+    font-family:Noto Sans ;
+    color: white;
+    font-weight: bold;
+}
+.There h6{
+    font-family:Noto Sans ;
+    color: #130030;
+    font-weight: bold;
+}
+.button_ori{
+    background-color: #65b337;
+    border-radius: 10px;
+    height: 5em;
+    box-shadow: none;
+    border: none;
+    pointer-events: none;
+}
+
+.button_ori h6{
+    font-family: Noto Sans ;
+    color: white;
+}
+.adx p{
+    font-family: Noto Sans;
+    color: #130030 ;
+    
+}
+.adx{
+    background-image: url(img/mid51.png);
+    width: 100%;
+    height: 100%;
+}
+
+
+/*covid*/
+
+.class1 img{
+    width: 90%;
+    margin: 0;
+    margin-bottom: 7%;
+}
+.class2 img{
+    margin: 0;
+    margin-top: 5%;
+    width: 80%;
+}
+.class3 img{
+    margin: 0;
+    width: 90%;
+    margin-top: 5%;
+    margin-right: 10em
+}
